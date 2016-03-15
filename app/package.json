@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron electron/resources/app/main.js",
-    "test": "node_modules/.bin/mocha -w"
+    "test": "node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
