@@ -1,4 +1,7 @@
 npm install
 
+npm run-script lint
 
-jshint **/*.js
+npm test
+
+
